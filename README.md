@@ -52,7 +52,7 @@ The repository contains the following files related to the project:
   
 - **`HarshaanthKumar_ThiyagarajaKumar_JobMarketData.twbx`**: The Tableau workbook file with the complete analysis and dashboard.
   
-- **`Job_Analytics_Dashboard.jpg`**: A screenshot of the final dashboard created in Tableau, summarizing key insights from the analysis.
+- **`Dashboard.jpg`**: A screenshot of the final dashboard created in Tableau, summarizing key insights from the analysis.
   
 - **`README.md`**: This documentation file explaining the project, key findings, and details about the repository contents.
 
