@@ -1,4 +1,4 @@
-# Analyzing Job Market Data in Tableau
+# Analyzing Job Market Data in Tableau Dashboard
 
 ## Project Overview
 
